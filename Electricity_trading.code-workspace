@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ai-models-gfs-cpr"
+		},
+		{
+			"path": "../ai-models-graphcast-gfs-cpr"
+		}
+	]
+}
