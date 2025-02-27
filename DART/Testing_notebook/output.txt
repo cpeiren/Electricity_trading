@@ -1,0 +1,62 @@
+validation element wise loss: loss    0.927909
+dtype: float64
+training element wise loss: loss    1.018815
+dtype: float64
+epoch 0 loss 1.0188152864575386; validation 0 loss 0.9279090166091919
+current lr is :[0.0009938441764533986]
+validation element wise loss: loss    0.927909
+dtype: float64
+training element wise loss: loss    0.919676
+dtype: float64
+epoch 1 loss 0.9196757413446903; validation 1 loss 0.9279090166091919
+current lr is :[0.0009755282826193188]
+validation element wise loss: loss    0.927909
+dtype: float64
+training element wise loss: loss    0.906617
+dtype: float64
+epoch 2 loss 0.906616810709238; validation 2 loss 0.9279090166091919
+current lr is :[0.000945503316590922]
+validation element wise loss: loss    0.927909
+dtype: float64
+training element wise loss: loss    1.179261
+dtype: float64
+epoch 3 loss 1.1792605891823769; validation 3 loss 0.9279090166091919
+current lr is :[0.0009045085926789767]
+validation element wise loss: loss    0.927909
+dtype: float64
+training element wise loss: loss    0.929941
+dtype: float64
+epoch 4 loss 0.9299405142664909; validation 4 loss 0.9279090166091919
+current lr is :[0.0008535535370398833]
+validation element wise loss: loss    0.777909
+dtype: float64
+training element wise loss: loss    0.936737
+dtype: float64
+epoch 0 loss 0.9367367327213287; validation 0 loss 0.7779088020324707
+current lr is :[0.0009938441764533986]
+validation element wise loss: loss    0.777909
+dtype: float64
+training element wise loss: loss    0.861717
+dtype: float64
+epoch 1 loss 0.8617171086370945; validation 1 loss 0.7779088020324707
+current lr is :[0.0009755282826193188]
+validation element wise loss: loss    0.777909
+dtype: float64
+training element wise loss: loss    0.945774
+dtype: float64
+epoch 2 loss 0.9457735121250153; validation 2 loss 0.7779088020324707
+current lr is :[0.000945503316590922]
+validation element wise loss: loss    0.777909
+dtype: float64
+training element wise loss: loss    0.990655
+dtype: float64
+epoch 3 loss 0.9906546622514725; validation 3 loss 0.7779088020324707
+current lr is :[0.0009045085926789767]
+validation element wise loss: loss    0.777909
+dtype: float64
+training element wise loss: loss    0.898662
+dtype: float64
+epoch 4 loss 0.898661807179451; validation 4 loss 0.7779088020324707
+current lr is :[0.0008535535370398833]
+validation loss is not improving, stop
+load model with best validation score

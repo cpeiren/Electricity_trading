@@ -1,0 +1,2144 @@
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.941526
+dtype: float64
+epoch 0 loss 0.941526222229004; validation 0 loss 0.9188418984413147
+current lr is :[0.0009938441764533986]
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.938872
+dtype: float64
+epoch 1 loss 0.9388722817103068; validation 1 loss 0.9188418984413147
+current lr is :[0.0009755282826193188]
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.937327
+dtype: float64
+epoch 2 loss 0.9373265743255615; validation 2 loss 0.9188418984413147
+current lr is :[0.000945503316590922]
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.956463
+dtype: float64
+epoch 3 loss 0.9564630627632141; validation 3 loss 0.9188418984413147
+current lr is :[0.0009045085926789767]
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.944903
+dtype: float64
+epoch 4 loss 0.9449028054873149; validation 4 loss 0.9188418984413147
+current lr is :[0.0008535535370398833]
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.953173
+dtype: float64
+epoch 5 loss 0.9531725168228149; validation 5 loss 0.9188418984413147
+current lr is :[0.0007938928322536107]
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.953912
+dtype: float64
+epoch 6 loss 0.9539115826288859; validation 6 loss 0.9188418984413147
+current lr is :[0.0007269955228745237]
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.934188
+dtype: float64
+epoch 7 loss 0.9341876864433288; validation 7 loss 0.9188418984413147
+current lr is :[0.0006545088426789767]
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.945581
+dtype: float64
+epoch 8 loss 0.9455809593200684; validation 8 loss 0.9188418984413147
+current lr is :[0.000578217654302883]
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.954552
+dtype: float64
+epoch 9 loss 0.9545518914858501; validation 9 loss 0.9188418984413147
+current lr is :[0.0005000005000000001]
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.942995
+dtype: float64
+epoch 10 loss 0.9429948687553406; validation 10 loss 0.9188418984413147
+current lr is :[0.00042178334569711726]
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.939179
+dtype: float64
+epoch 11 loss 0.9391793330510457; validation 11 loss 0.9188418984413147
+current lr is :[0.00034549215732102354]
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.953403
+dtype: float64
+epoch 12 loss 0.9534029444058736; validation 12 loss 0.9188418984413147
+current lr is :[0.0002730054771254765]
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.954546
+dtype: float64
+epoch 13 loss 0.9545460224151612; validation 13 loss 0.9188418984413147
+current lr is :[0.0002061081677463896]
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.942973
+dtype: float64
+epoch 14 loss 0.9429732481638591; validation 14 loss 0.9188418984413147
+current lr is :[0.00014644746296011682]
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.963638
+dtype: float64
+epoch 15 loss 0.9636379440625509; validation 15 loss 0.9188418984413147
+current lr is :[9.54924073210235e-05]
+validation element wise loss: loss    0.918842
+dtype: float64
+training element wise loss: loss    0.957554
+dtype: float64
+epoch 16 loss 0.9575539350509643; validation 16 loss 0.9188418984413147
+current lr is :[5.4497683409078186e-05]
+validation loss is not improving, stop
+load model with best validation score
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    0.996401
+dtype: float64
+epoch 0 loss 0.9964005947113037; validation 0 loss 0.9040057063102722
+current lr is :[0.09938441703591272]
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    0.997426
+dtype: float64
+epoch 1 loss 0.9974258383115132; validation 1 loss 0.9040057063102722
+current lr is :[0.09755282583922943]
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    0.999766
+dtype: float64
+epoch 2 loss 0.9997660875320434; validation 2 loss 0.9040057063102722
+current lr is :[0.09455032626391513]
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    1.00545
+dtype: float64
+epoch 3 loss 1.005449903011322; validation 3 loss 0.9040057063102722
+current lr is :[0.09045084981423888]
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    0.998929
+dtype: float64
+epoch 4 loss 0.9989290038744608; validation 4 loss 0.9040057063102722
+current lr is :[0.08535533920577398]
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    1.012247
+dtype: float64
+epoch 5 loss 1.0122474431991577; validation 5 loss 0.9040057063102722
+current lr is :[0.07938926282073104]
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    0.989688
+dtype: float64
+epoch 6 loss 0.9896876732508342; validation 6 loss 0.9040057063102722
+current lr is :[0.07269952525998209]
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    1.008235
+dtype: float64
+epoch 7 loss 1.0082348505655925; validation 7 loss 0.9040057063102722
+current lr is :[0.06545085006423888]
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    0.999552
+dtype: float64
+epoch 8 loss 0.9995522975921631; validation 8 loss 0.9040057063102722
+current lr is :[0.057821723673794324]
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    0.993353
+dtype: float64
+epoch 9 loss 0.9933529814084371; validation 9 loss 0.9040057063102722
+current lr is :[0.05000000050000001]
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    1.000065
+dtype: float64
+epoch 10 loss 1.0000646471977235; validation 10 loss 0.9040057063102722
+current lr is :[0.04217827732620571]
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    1.008303
+dtype: float64
+epoch 11 loss 1.008302625020345; validation 11 loss 0.9040057063102722
+current lr is :[0.034549150935761136]
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    1.002558
+dtype: float64
+epoch 12 loss 1.002558139959971; validation 12 loss 0.9040057063102722
+current lr is :[0.027300475740017916]
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    1.002425
+dtype: float64
+epoch 13 loss 1.0024252971013388; validation 13 loss 0.9040057063102722
+current lr is :[0.020610738179268978]
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    1.004363
+dtype: float64
+epoch 14 loss 1.0043631553649903; validation 14 loss 0.9040057063102722
+current lr is :[0.01464466179422602]
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    0.992956
+dtype: float64
+epoch 15 loss 0.9929559747378032; validation 15 loss 0.9040057063102722
+current lr is :[0.009549151185761131]
+validation element wise loss: loss    0.904006
+dtype: float64
+training element wise loss: loss    1.000298
+dtype: float64
+epoch 16 loss 1.0002975940704346; validation 16 loss 0.9040057063102722
+current lr is :[0.0054496747360848734]
+validation loss is not improving, stop
+load model with best validation score
+validation element wise loss: loss    1.663368
+dtype: float64
+training element wise loss: loss    1.350352
+dtype: float64
+epoch 0 loss 1.3503517826398215; validation 0 loss 1.6633678674697876
+current lr is :[0.09938441703591272]
+validation element wise loss: loss    1.775823
+dtype: float64
+training element wise loss: loss    1.317351
+dtype: float64
+epoch 1 loss 1.3173510829607646; validation 1 loss 1.7758228778839111
+current lr is :[0.09755282583922943]
+validation element wise loss: loss    1.577622
+dtype: float64
+training element wise loss: loss    1.33981
+dtype: float64
+epoch 2 loss 1.3398103872934977; validation 2 loss 1.5776218175888062
+current lr is :[0.09455032626391513]
+validation element wise loss: loss    1.589171
+dtype: float64
+training element wise loss: loss    1.320656
+dtype: float64
+epoch 3 loss 1.3206564704577128; validation 3 loss 1.5891715288162231
+current lr is :[0.09045084981423888]
+validation element wise loss: loss    1.732337
+dtype: float64
+training element wise loss: loss    1.356293
+dtype: float64
+epoch 4 loss 1.3562934438387553; validation 4 loss 1.7323368787765503
+current lr is :[0.08535533920577398]
+validation element wise loss: loss    1.691921
+dtype: float64
+training element wise loss: loss    1.359708
+dtype: float64
+epoch 5 loss 1.3597078522046406; validation 5 loss 1.6919214725494385
+current lr is :[0.07938926282073104]
+validation element wise loss: loss    1.735659
+dtype: float64
+training element wise loss: loss    1.359558
+dtype: float64
+epoch 6 loss 1.3595584472020468; validation 6 loss 1.7356593608856201
+current lr is :[0.07269952525998209]
+validation element wise loss: loss    1.618623
+dtype: float64
+training element wise loss: loss    1.316562
+dtype: float64
+epoch 7 loss 1.3165616273880005; validation 7 loss 1.6186230182647705
+current lr is :[0.06545085006423888]
+validation element wise loss: loss    1.600773
+dtype: float64
+training element wise loss: loss    1.340784
+dtype: float64
+epoch 8 loss 1.3407838185628256; validation 8 loss 1.6007726192474365
+current lr is :[0.057821723673794324]
+validation element wise loss: loss    1.716171
+dtype: float64
+training element wise loss: loss    1.321132
+dtype: float64
+epoch 9 loss 1.321132202943166; validation 9 loss 1.7161710262298584
+current lr is :[0.05000000050000001]
+validation element wise loss: loss    1.708719
+dtype: float64
+training element wise loss: loss    1.368271
+dtype: float64
+epoch 10 loss 1.36827099720637; validation 10 loss 1.7087185382843018
+current lr is :[0.04217827732620571]
+validation element wise loss: loss    1.709138
+dtype: float64
+training element wise loss: loss    1.336476
+dtype: float64
+epoch 11 loss 1.3364755670229593; validation 11 loss 1.7091381549835205
+current lr is :[0.034549150935761136]
+validation element wise loss: loss    1.509681
+dtype: float64
+training element wise loss: loss    1.324234
+dtype: float64
+epoch 12 loss 1.3242344379425048; validation 12 loss 1.5096808671951294
+current lr is :[0.027300475740017916]
+validation element wise loss: loss    1.579685
+dtype: float64
+training element wise loss: loss    1.350084
+dtype: float64
+epoch 13 loss 1.3500837961832681; validation 13 loss 1.5796854496002197
+current lr is :[0.020610738179268978]
+validation element wise loss: loss    1.788526
+dtype: float64
+training element wise loss: loss    1.335771
+dtype: float64
+epoch 14 loss 1.3357713262240092; validation 14 loss 1.7885255813598633
+current lr is :[0.01464466179422602]
+validation element wise loss: loss    1.676526
+dtype: float64
+training element wise loss: loss    1.349667
+dtype: float64
+epoch 15 loss 1.3496674299240112; validation 15 loss 1.6765259504318237
+current lr is :[0.009549151185761131]
+validation element wise loss: loss    1.560853
+dtype: float64
+training element wise loss: loss    1.405076
+dtype: float64
+epoch 16 loss 1.4050764481226603; validation 16 loss 1.5608528852462769
+current lr is :[0.0054496747360848734]
+validation element wise loss: loss    1.702289
+dtype: float64
+training element wise loss: loss    1.317903
+dtype: float64
+epoch 17 loss 1.3179031968116761; validation 17 loss 1.7022894620895386
+current lr is :[0.0024471751607705815]
+validation element wise loss: loss    1.636997
+dtype: float64
+training element wise loss: loss    1.367935
+dtype: float64
+epoch 18 loss 1.3679345766703288; validation 18 loss 1.6369965076446533
+current lr is :[0.0006155839640872874]
+validation element wise loss: loss    1.790203
+dtype: float64
+training element wise loss: loss    1.334768
+dtype: float64
+epoch 19 loss 1.3347681522369386; validation 19 loss 1.7902032136917114
+current lr is :[1e-09]
+validation element wise loss: loss    1.56638
+dtype: float64
+training element wise loss: loss    1.33175
+dtype: float64
+epoch 20 loss 1.3317500114440919; validation 20 loss 1.5663803815841675
+current lr is :[0.0006155839640872819]
+validation element wise loss: loss    1.6812
+dtype: float64
+training element wise loss: loss    1.31994
+dtype: float64
+epoch 21 loss 1.319939911365509; validation 21 loss 1.681199312210083
+current lr is :[0.0024471751607705707]
+validation element wise loss: loss    1.734348
+dtype: float64
+training element wise loss: loss    1.327392
+dtype: float64
+epoch 22 loss 1.3273923993110657; validation 22 loss 1.7343480587005615
+current lr is :[0.005449674736084868]
+validation element wise loss: loss    1.559928
+dtype: float64
+training element wise loss: loss    1.38775
+dtype: float64
+epoch 23 loss 1.3877504507700602; validation 23 loss 1.5599281787872314
+current lr is :[0.009549151185761126]
+validation element wise loss: loss    1.652246
+dtype: float64
+training element wise loss: loss    1.297863
+dtype: float64
+epoch 24 loss 1.2978632171948752; validation 24 loss 1.652246356010437
+current lr is :[0.014644661794226008]
+validation element wise loss: loss    1.626397
+dtype: float64
+training element wise loss: loss    1.407112
+dtype: float64
+epoch 25 loss 1.4071115811665853; validation 25 loss 1.6263970136642456
+current lr is :[0.020610738179268964]
+validation element wise loss: loss    1.564371
+dtype: float64
+training element wise loss: loss    1.353204
+dtype: float64
+epoch 26 loss 1.3532043894131978; validation 26 loss 1.5643712282180786
+current lr is :[0.0273004757400179]
+validation element wise loss: loss    1.531101
+dtype: float64
+training element wise loss: loss    1.33019
+dtype: float64
+epoch 27 loss 1.3301899909973145; validation 27 loss 1.5311009883880615
+current lr is :[0.034549150935761115]
+validation element wise loss: loss    1.683987
+dtype: float64
+training element wise loss: loss    1.339279
+dtype: float64
+epoch 28 loss 1.339279313882192; validation 28 loss 1.6839865446090698
+current lr is :[0.04217827732620568]
+validation loss is not improving, stop
+load model with best validation score
+validation element wise loss: loss    1.551464
+dtype: float64
+training element wise loss: loss    1.299154
+dtype: float64
+epoch 0 loss 1.299154285589854; validation 0 loss 1.5514639616012573
+current lr is :0.1
+validation element wise loss: loss    1.526537
+dtype: float64
+training element wise loss: loss    1.278093
+dtype: float64
+epoch 1 loss 1.278093441327413; validation 1 loss 1.5265369415283203
+current lr is :0.1
+validation element wise loss: loss    1.638419
+dtype: float64
+training element wise loss: loss    1.25151
+dtype: float64
+epoch 2 loss 1.2515098214149476; validation 2 loss 1.6384187936782837
+current lr is :0.1
+validation element wise loss: loss    1.520571
+dtype: float64
+training element wise loss: loss    1.258777
+dtype: float64
+epoch 3 loss 1.258777340253194; validation 3 loss 1.5205707550048828
+current lr is :0.1
+validation element wise loss: loss    1.614794
+dtype: float64
+training element wise loss: loss    1.273626
+dtype: float64
+epoch 4 loss 1.273626410961151; validation 4 loss 1.6147938966751099
+current lr is :0.1
+validation element wise loss: loss    1.689999
+dtype: float64
+training element wise loss: loss    1.295176
+dtype: float64
+epoch 5 loss 1.29517613252004; validation 5 loss 1.6899986267089844
+current lr is :0.1
+validation element wise loss: loss    1.564504
+dtype: float64
+training element wise loss: loss    1.279285
+dtype: float64
+epoch 6 loss 1.2792850255966186; validation 6 loss 1.5645042657852173
+current lr is :0.1
+validation element wise loss: loss    1.603291
+dtype: float64
+training element wise loss: loss    1.25942
+dtype: float64
+epoch 7 loss 1.2594196359316507; validation 7 loss 1.6032911539077759
+current lr is :0.1
+validation element wise loss: loss    1.603495
+dtype: float64
+training element wise loss: loss    1.246338
+dtype: float64
+epoch 8 loss 1.2463375449180603; validation 8 loss 1.6034950017929077
+current lr is :0.1
+validation element wise loss: loss    1.527136
+dtype: float64
+training element wise loss: loss    1.277682
+dtype: float64
+epoch 9 loss 1.2776816288630168; validation 9 loss 1.5271356105804443
+current lr is :0.1
+validation element wise loss: loss    1.533529
+dtype: float64
+training element wise loss: loss    1.275432
+dtype: float64
+epoch 10 loss 1.2754319826761882; validation 10 loss 1.533529281616211
+current lr is :0.1
+validation element wise loss: loss    1.531639
+dtype: float64
+training element wise loss: loss    1.303
+dtype: float64
+epoch 11 loss 1.3030003468195597; validation 11 loss 1.5316393375396729
+current lr is :0.1
+validation element wise loss: loss    1.769424
+dtype: float64
+training element wise loss: loss    1.272168
+dtype: float64
+epoch 12 loss 1.2721683979034424; validation 12 loss 1.7694236040115356
+current lr is :0.1
+validation element wise loss: loss    1.599517
+dtype: float64
+training element wise loss: loss    1.268403
+dtype: float64
+epoch 13 loss 1.2684030373891195; validation 13 loss 1.59951651096344
+current lr is :0.1
+validation element wise loss: loss    1.540176
+dtype: float64
+training element wise loss: loss    1.291263
+dtype: float64
+epoch 14 loss 1.2912630319595337; validation 14 loss 1.5401761531829834
+current lr is :0.1
+validation element wise loss: loss    1.720537
+dtype: float64
+training element wise loss: loss    1.234965
+dtype: float64
+epoch 15 loss 1.2349647084871929; validation 15 loss 1.7205369472503662
+current lr is :0.1
+validation element wise loss: loss    1.634989
+dtype: float64
+training element wise loss: loss    1.273717
+dtype: float64
+epoch 16 loss 1.2737173716227213; validation 16 loss 1.6349895000457764
+current lr is :0.1
+validation element wise loss: loss    1.5993
+dtype: float64
+training element wise loss: loss    1.272062
+dtype: float64
+epoch 17 loss 1.2720617055892944; validation 17 loss 1.5993003845214844
+current lr is :0.1
+validation element wise loss: loss    1.507383
+dtype: float64
+training element wise loss: loss    1.291834
+dtype: float64
+epoch 18 loss 1.2918336073557535; validation 18 loss 1.5073829889297485
+current lr is :0.1
+validation element wise loss: loss    1.537762
+dtype: float64
+training element wise loss: loss    1.252136
+dtype: float64
+epoch 19 loss 1.2521357456843059; validation 19 loss 1.5377622842788696
+current lr is :0.1
+validation element wise loss: loss    1.521416
+dtype: float64
+training element wise loss: loss    1.255524
+dtype: float64
+epoch 20 loss 1.2555239876111348; validation 20 loss 1.521416425704956
+current lr is :0.1
+validation element wise loss: loss    1.745942
+dtype: float64
+training element wise loss: loss    1.280085
+dtype: float64
+epoch 21 loss 1.2800852537155152; validation 21 loss 1.7459419965744019
+current lr is :0.1
+validation element wise loss: loss    1.576213
+dtype: float64
+training element wise loss: loss    1.286801
+dtype: float64
+epoch 22 loss 1.2868006984392801; validation 22 loss 1.576213002204895
+current lr is :0.1
+validation element wise loss: loss    1.592609
+dtype: float64
+training element wise loss: loss    1.260926
+dtype: float64
+epoch 23 loss 1.260926071802775; validation 23 loss 1.5926085710525513
+current lr is :0.1
+validation element wise loss: loss    1.556922
+dtype: float64
+training element wise loss: loss    1.260276
+dtype: float64
+epoch 24 loss 1.2602758129437766; validation 24 loss 1.5569223165512085
+current lr is :0.1
+validation element wise loss: loss    1.549409
+dtype: float64
+training element wise loss: loss    1.279873
+dtype: float64
+epoch 25 loss 1.2798726876576743; validation 25 loss 1.5494087934494019
+current lr is :0.1
+validation element wise loss: loss    1.527979
+dtype: float64
+training element wise loss: loss    1.279888
+dtype: float64
+epoch 26 loss 1.2798880855242412; validation 26 loss 1.5279788970947266
+current lr is :0.1
+validation element wise loss: loss    1.55368
+dtype: float64
+training element wise loss: loss    1.247308
+dtype: float64
+epoch 27 loss 1.2473075668017068; validation 27 loss 1.5536800622940063
+current lr is :0.1
+validation element wise loss: loss    1.672359
+dtype: float64
+training element wise loss: loss    1.250498
+dtype: float64
+epoch 28 loss 1.2504978060722352; validation 28 loss 1.672358751296997
+current lr is :0.1
+validation element wise loss: loss    1.56646
+dtype: float64
+training element wise loss: loss    1.299173
+dtype: float64
+epoch 29 loss 1.2991727471351624; validation 29 loss 1.5664602518081665
+current lr is :0.1
+validation element wise loss: loss    1.660073
+dtype: float64
+training element wise loss: loss    1.290203
+dtype: float64
+epoch 30 loss 1.2902028878529868; validation 30 loss 1.660073161125183
+current lr is :0.1
+validation element wise loss: loss    1.567521
+dtype: float64
+training element wise loss: loss    1.271595
+dtype: float64
+epoch 31 loss 1.2715954621632894; validation 31 loss 1.567521095275879
+current lr is :0.1
+validation element wise loss: loss    1.531778
+dtype: float64
+training element wise loss: loss    1.268362
+dtype: float64
+epoch 32 loss 1.2683617750803629; validation 32 loss 1.5317782163619995
+current lr is :0.1
+validation element wise loss: loss    1.660492
+dtype: float64
+training element wise loss: loss    1.251798
+dtype: float64
+epoch 33 loss 1.2517975052197774; validation 33 loss 1.6604923009872437
+current lr is :0.1
+validation element wise loss: loss    1.711897
+dtype: float64
+training element wise loss: loss    1.294702
+dtype: float64
+epoch 34 loss 1.294701878229777; validation 34 loss 1.7118968963623047
+current lr is :0.1
+validation loss is not improving, stop
+load model with best validation score
+validation element wise loss: loss    1.459509
+dtype: float64
+training element wise loss: loss    1.17349
+dtype: float64
+epoch 0 loss 1.17349005540212; validation 0 loss 1.4595086574554443
+current lr is :0.1
+validation element wise loss: loss    1.490696
+dtype: float64
+training element wise loss: loss    1.155579
+dtype: float64
+epoch 1 loss 1.1555785576502482; validation 1 loss 1.4906965494155884
+current lr is :0.1
+validation element wise loss: loss    1.403762
+dtype: float64
+training element wise loss: loss    1.179293
+dtype: float64
+epoch 2 loss 1.179292627175649; validation 2 loss 1.4037622213363647
+current lr is :0.1
+validation element wise loss: loss    1.45461
+dtype: float64
+training element wise loss: loss    1.146235
+dtype: float64
+epoch 3 loss 1.1462352832158407; validation 3 loss 1.4546098709106445
+current lr is :0.1
+validation element wise loss: loss    1.44347
+dtype: float64
+training element wise loss: loss    1.175453
+dtype: float64
+epoch 4 loss 1.1754532734553018; validation 4 loss 1.4434700012207031
+current lr is :0.1
+validation element wise loss: loss    1.496989
+dtype: float64
+training element wise loss: loss    1.14636
+dtype: float64
+epoch 5 loss 1.1463599880536397; validation 5 loss 1.496989130973816
+current lr is :0.1
+validation element wise loss: loss    1.428709
+dtype: float64
+training element wise loss: loss    1.125618
+dtype: float64
+epoch 6 loss 1.1256176968415579; validation 6 loss 1.428709626197815
+current lr is :0.1
+validation element wise loss: loss    1.450324
+dtype: float64
+training element wise loss: loss    1.159538
+dtype: float64
+epoch 7 loss 1.1595378915468852; validation 7 loss 1.4503237009048462
+current lr is :0.1
+validation element wise loss: loss    1.433764
+dtype: float64
+training element wise loss: loss    1.16553
+dtype: float64
+epoch 8 loss 1.1655303319295247; validation 8 loss 1.4337643384933472
+current lr is :0.1
+validation element wise loss: loss    1.49929
+dtype: float64
+training element wise loss: loss    1.161765
+dtype: float64
+epoch 9 loss 1.1617653528849283; validation 9 loss 1.4992902278900146
+current lr is :0.1
+validation element wise loss: loss    1.541216
+dtype: float64
+training element wise loss: loss    1.138781
+dtype: float64
+epoch 10 loss 1.1387808601061502; validation 10 loss 1.5412157773971558
+current lr is :0.1
+validation element wise loss: loss    1.507113
+dtype: float64
+training element wise loss: loss    1.119201
+dtype: float64
+epoch 11 loss 1.1192008177439372; validation 11 loss 1.5071125030517578
+current lr is :0.1
+validation element wise loss: loss    1.499583
+dtype: float64
+training element wise loss: loss    1.160671
+dtype: float64
+epoch 12 loss 1.1606710433959961; validation 12 loss 1.499583125114441
+current lr is :0.1
+validation element wise loss: loss    1.432588
+dtype: float64
+training element wise loss: loss    1.132027
+dtype: float64
+epoch 13 loss 1.1320268710454304; validation 13 loss 1.43258798122406
+current lr is :0.1
+validation element wise loss: loss    1.621613
+dtype: float64
+training element wise loss: loss    1.133101
+dtype: float64
+epoch 14 loss 1.1331005016962687; validation 14 loss 1.6216133832931519
+current lr is :0.1
+validation element wise loss: loss    1.504362
+dtype: float64
+training element wise loss: loss    1.16893
+dtype: float64
+epoch 15 loss 1.168929640452067; validation 15 loss 1.504361867904663
+current lr is :0.1
+validation element wise loss: loss    1.544871
+dtype: float64
+training element wise loss: loss    1.155025
+dtype: float64
+epoch 16 loss 1.1550252040227253; validation 16 loss 1.5448710918426514
+current lr is :0.1
+validation element wise loss: loss    1.473105
+dtype: float64
+training element wise loss: loss    1.165758
+dtype: float64
+epoch 17 loss 1.165757695833842; validation 17 loss 1.4731048345565796
+current lr is :0.1
+validation element wise loss: loss    1.475341
+dtype: float64
+training element wise loss: loss    1.136402
+dtype: float64
+epoch 18 loss 1.1364022692044575; validation 18 loss 1.475340723991394
+current lr is :0.1
+validation element wise loss: loss    1.535254
+dtype: float64
+training element wise loss: loss    1.158859
+dtype: float64
+epoch 19 loss 1.1588590224583943; validation 19 loss 1.5352541208267212
+current lr is :0.1
+validation element wise loss: loss    1.676905
+dtype: float64
+training element wise loss: loss    1.162091
+dtype: float64
+epoch 20 loss 1.1620910167694092; validation 20 loss 1.6769049167633057
+current lr is :0.1
+validation element wise loss: loss    1.543898
+dtype: float64
+training element wise loss: loss    1.158196
+dtype: float64
+epoch 21 loss 1.1581963141759237; validation 21 loss 1.5438977479934692
+current lr is :0.1
+validation element wise loss: loss    1.419502
+dtype: float64
+training element wise loss: loss    1.153202
+dtype: float64
+epoch 22 loss 1.153201695283254; validation 22 loss 1.4195022583007812
+current lr is :0.1
+validation element wise loss: loss    1.493036
+dtype: float64
+training element wise loss: loss    1.138221
+dtype: float64
+epoch 23 loss 1.1382211923599244; validation 23 loss 1.4930356740951538
+current lr is :0.1
+validation element wise loss: loss    1.498815
+dtype: float64
+training element wise loss: loss    1.167474
+dtype: float64
+epoch 24 loss 1.1674738725026448; validation 24 loss 1.4988152980804443
+current lr is :0.1
+validation element wise loss: loss    1.482112
+dtype: float64
+training element wise loss: loss    1.165002
+dtype: float64
+epoch 25 loss 1.1650024771690368; validation 25 loss 1.482112169265747
+current lr is :0.1
+validation element wise loss: loss    1.468766
+dtype: float64
+training element wise loss: loss    1.130817
+dtype: float64
+epoch 26 loss 1.1308171550432842; validation 26 loss 1.468766212463379
+current lr is :0.1
+validation element wise loss: loss    1.563029
+dtype: float64
+training element wise loss: loss    1.182729
+dtype: float64
+epoch 27 loss 1.1827293833096821; validation 27 loss 1.5630292892456055
+current lr is :0.1
+validation element wise loss: loss    1.4993
+dtype: float64
+training element wise loss: loss    1.157354
+dtype: float64
+epoch 28 loss 1.1573544025421143; validation 28 loss 1.499300241470337
+current lr is :0.1
+validation element wise loss: loss    1.576249
+dtype: float64
+training element wise loss: loss    1.178346
+dtype: float64
+epoch 29 loss 1.1783459067344666; validation 29 loss 1.576249361038208
+current lr is :0.1
+validation element wise loss: loss    1.423937
+dtype: float64
+training element wise loss: loss    1.152103
+dtype: float64
+epoch 30 loss 1.15210303068161; validation 30 loss 1.423937201499939
+current lr is :0.1
+validation element wise loss: loss    1.381422
+dtype: float64
+training element wise loss: loss    1.118325
+dtype: float64
+epoch 31 loss 1.1183245718479156; validation 31 loss 1.3814221620559692
+current lr is :0.1
+validation element wise loss: loss    1.441565
+dtype: float64
+training element wise loss: loss    1.197213
+dtype: float64
+epoch 32 loss 1.1972126523653666; validation 32 loss 1.441564917564392
+current lr is :0.1
+validation element wise loss: loss    1.404242
+dtype: float64
+training element wise loss: loss    1.165418
+dtype: float64
+epoch 33 loss 1.1654178142547607; validation 33 loss 1.404241919517517
+current lr is :0.1
+validation element wise loss: loss    1.406202
+dtype: float64
+training element wise loss: loss    1.141674
+dtype: float64
+epoch 34 loss 1.1416741410891216; validation 34 loss 1.4062014818191528
+current lr is :0.1
+validation element wise loss: loss    1.467348
+dtype: float64
+training element wise loss: loss    1.176411
+dtype: float64
+epoch 35 loss 1.1764105717341105; validation 35 loss 1.4673479795455933
+current lr is :0.1
+validation element wise loss: loss    1.575953
+dtype: float64
+training element wise loss: loss    1.146266
+dtype: float64
+epoch 36 loss 1.146265733242035; validation 36 loss 1.5759527683258057
+current lr is :0.1
+validation element wise loss: loss    1.457798
+dtype: float64
+training element wise loss: loss    1.148295
+dtype: float64
+epoch 37 loss 1.148295032978058; validation 37 loss 1.4577981233596802
+current lr is :0.1
+validation element wise loss: loss    1.50376
+dtype: float64
+training element wise loss: loss    1.173074
+dtype: float64
+epoch 38 loss 1.1730735063552857; validation 38 loss 1.5037600994110107
+current lr is :0.1
+validation element wise loss: loss    1.595013
+dtype: float64
+training element wise loss: loss    1.21121
+dtype: float64
+epoch 39 loss 1.2112095514933268; validation 39 loss 1.595012903213501
+current lr is :0.1
+validation element wise loss: loss    1.620028
+dtype: float64
+training element wise loss: loss    1.176683
+dtype: float64
+epoch 40 loss 1.176682702700297; validation 40 loss 1.6200284957885742
+current lr is :0.1
+validation element wise loss: loss    1.517034
+dtype: float64
+training element wise loss: loss    1.118063
+dtype: float64
+epoch 41 loss 1.1180625955263774; validation 41 loss 1.5170342922210693
+current lr is :0.1
+validation element wise loss: loss    1.660674
+dtype: float64
+training element wise loss: loss    1.178752
+dtype: float64
+epoch 42 loss 1.1787516196568808; validation 42 loss 1.6606744527816772
+current lr is :0.1
+validation element wise loss: loss    1.388771
+dtype: float64
+training element wise loss: loss    1.162307
+dtype: float64
+epoch 43 loss 1.162307333946228; validation 43 loss 1.3887704610824585
+current lr is :0.1
+validation element wise loss: loss    1.602596
+dtype: float64
+training element wise loss: loss    1.14925
+dtype: float64
+epoch 44 loss 1.1492504159609476; validation 44 loss 1.6025962829589844
+current lr is :0.1
+validation element wise loss: loss    1.511671
+dtype: float64
+training element wise loss: loss    1.145611
+dtype: float64
+epoch 45 loss 1.1456113497416178; validation 45 loss 1.5116713047027588
+current lr is :0.1
+validation element wise loss: loss    1.537441
+dtype: float64
+training element wise loss: loss    1.198404
+dtype: float64
+epoch 46 loss 1.198403545220693; validation 46 loss 1.537441372871399
+current lr is :0.1
+validation element wise loss: loss    1.596645
+dtype: float64
+training element wise loss: loss    1.146917
+dtype: float64
+epoch 47 loss 1.1469170490900675; validation 47 loss 1.5966449975967407
+current lr is :0.1
+validation element wise loss: loss    1.508652
+dtype: float64
+training element wise loss: loss    1.15118
+dtype: float64
+epoch 48 loss 1.1511798659960428; validation 48 loss 1.5086514949798584
+current lr is :0.1
+validation element wise loss: loss    1.462248
+dtype: float64
+training element wise loss: loss    1.135475
+dtype: float64
+epoch 49 loss 1.1354746182759603; validation 49 loss 1.4622482061386108
+current lr is :0.1
+validation element wise loss: loss    1.532999
+dtype: float64
+training element wise loss: loss    1.203578
+dtype: float64
+epoch 50 loss 1.2035776734352113; validation 50 loss 1.5329992771148682
+current lr is :0.1
+validation element wise loss: loss    1.490513
+dtype: float64
+training element wise loss: loss    1.15179
+dtype: float64
+epoch 51 loss 1.1517895420392354; validation 51 loss 1.4905134439468384
+current lr is :0.1
+validation element wise loss: loss    1.423143
+dtype: float64
+training element wise loss: loss    1.131359
+dtype: float64
+epoch 52 loss 1.1313588817914326; validation 52 loss 1.4231427907943726
+current lr is :0.1
+validation element wise loss: loss    1.531457
+dtype: float64
+training element wise loss: loss    1.14551
+dtype: float64
+epoch 53 loss 1.1455099701881408; validation 53 loss 1.531456708908081
+current lr is :0.1
+validation element wise loss: loss    1.482933
+dtype: float64
+training element wise loss: loss    1.15354
+dtype: float64
+epoch 54 loss 1.1535400430361429; validation 54 loss 1.482932686805725
+current lr is :0.1
+validation element wise loss: loss    1.428175
+dtype: float64
+training element wise loss: loss    1.167477
+dtype: float64
+epoch 55 loss 1.1674766461054484; validation 55 loss 1.4281753301620483
+current lr is :0.1
+validation element wise loss: loss    1.532122
+dtype: float64
+training element wise loss: loss    1.163005
+dtype: float64
+epoch 56 loss 1.1630045612653097; validation 56 loss 1.5321216583251953
+current lr is :0.1
+validation element wise loss: loss    1.518334
+dtype: float64
+training element wise loss: loss    1.190161
+dtype: float64
+epoch 57 loss 1.1901609301567078; validation 57 loss 1.5183345079421997
+current lr is :0.1
+validation element wise loss: loss    1.57195
+dtype: float64
+training element wise loss: loss    1.156018
+dtype: float64
+epoch 58 loss 1.1560177167256673; validation 58 loss 1.5719497203826904
+current lr is :0.1
+validation element wise loss: loss    1.443768
+dtype: float64
+training element wise loss: loss    1.135345
+dtype: float64
+epoch 59 loss 1.1353446960449218; validation 59 loss 1.4437683820724487
+current lr is :0.1
+validation element wise loss: loss    1.440166
+dtype: float64
+training element wise loss: loss    1.18043
+dtype: float64
+epoch 60 loss 1.1804302096366883; validation 60 loss 1.4401663541793823
+current lr is :0.1
+validation element wise loss: loss    1.454716
+dtype: float64
+training element wise loss: loss    1.148946
+dtype: float64
+epoch 61 loss 1.1489456216494243; validation 61 loss 1.4547157287597656
+current lr is :0.1
+validation element wise loss: loss    1.538844
+dtype: float64
+training element wise loss: loss    1.11961
+dtype: float64
+epoch 62 loss 1.1196097691853841; validation 62 loss 1.5388437509536743
+current lr is :0.1
+validation loss is not improving, stop
+load model with best validation score
+validation element wise loss: loss    1.284147
+dtype: float64
+training element wise loss: loss    1.24189
+dtype: float64
+epoch 0 loss 1.241889502918511; validation 0 loss 1.2841465473175049
+current lr is :0.1
+validation element wise loss: loss    1.281709
+dtype: float64
+training element wise loss: loss    1.241153
+dtype: float64
+epoch 1 loss 1.241152544816335; validation 1 loss 1.2817084789276123
+current lr is :0.1
+validation element wise loss: loss    1.284858
+dtype: float64
+training element wise loss: loss    1.244321
+dtype: float64
+epoch 2 loss 1.244320571422577; validation 2 loss 1.2848577499389648
+current lr is :0.1
+validation element wise loss: loss    1.280046
+dtype: float64
+training element wise loss: loss    1.242248
+dtype: float64
+epoch 3 loss 1.2422477059197008; validation 3 loss 1.2800461053848267
+current lr is :0.1
+validation element wise loss: loss    1.285124
+dtype: float64
+training element wise loss: loss    1.240943
+dtype: float64
+epoch 4 loss 1.240942921554833; validation 4 loss 1.2851239442825317
+current lr is :0.1
+validation element wise loss: loss    1.284023
+dtype: float64
+training element wise loss: loss    1.241223
+dtype: float64
+epoch 5 loss 1.241223064430973; validation 5 loss 1.2840228080749512
+current lr is :0.1
+validation element wise loss: loss    1.282973
+dtype: float64
+training element wise loss: loss    1.242781
+dtype: float64
+epoch 6 loss 1.2427809458029897; validation 6 loss 1.282973289489746
+current lr is :0.1
+validation element wise loss: loss    1.279029
+dtype: float64
+training element wise loss: loss    1.243027
+dtype: float64
+epoch 7 loss 1.2430269033239598; validation 7 loss 1.279029369354248
+current lr is :0.1
+validation element wise loss: loss    1.282459
+dtype: float64
+training element wise loss: loss    1.240311
+dtype: float64
+epoch 8 loss 1.2403113549215752; validation 8 loss 1.2824591398239136
+current lr is :0.1
+validation element wise loss: loss    1.28333
+dtype: float64
+training element wise loss: loss    1.240133
+dtype: float64
+epoch 9 loss 1.240133407868837; validation 9 loss 1.283329963684082
+current lr is :0.1
+validation element wise loss: loss    1.27985
+dtype: float64
+training element wise loss: loss    1.244477
+dtype: float64
+epoch 10 loss 1.2444773049731004; validation 10 loss 1.279849886894226
+current lr is :0.1
+validation element wise loss: loss    1.281778
+dtype: float64
+training element wise loss: loss    1.243074
+dtype: float64
+epoch 11 loss 1.2430737107469325; validation 11 loss 1.2817779779434204
+current lr is :0.1
+validation element wise loss: loss    1.281066
+dtype: float64
+training element wise loss: loss    1.240364
+dtype: float64
+epoch 12 loss 1.2403637609983746; validation 12 loss 1.2810661792755127
+current lr is :0.1
+validation element wise loss: loss    1.280342
+dtype: float64
+training element wise loss: loss    1.240516
+dtype: float64
+epoch 13 loss 1.2405164801237876; validation 13 loss 1.2803421020507812
+current lr is :0.1
+validation element wise loss: loss    1.28495
+dtype: float64
+training element wise loss: loss    1.24168
+dtype: float64
+epoch 14 loss 1.2416795084350987; validation 14 loss 1.2849498987197876
+current lr is :0.1
+validation element wise loss: loss    1.287985
+dtype: float64
+training element wise loss: loss    1.239794
+dtype: float64
+epoch 15 loss 1.239793574600889; validation 15 loss 1.2879847288131714
+current lr is :0.1
+validation element wise loss: loss    1.285137
+dtype: float64
+training element wise loss: loss    1.240612
+dtype: float64
+epoch 16 loss 1.240612476541285; validation 16 loss 1.2851372957229614
+current lr is :0.1
+validation element wise loss: loss    1.283055
+dtype: float64
+training element wise loss: loss    1.240292
+dtype: float64
+epoch 17 loss 1.2402919217159873; validation 17 loss 1.2830547094345093
+current lr is :0.1
+validation element wise loss: loss    1.281532
+dtype: float64
+training element wise loss: loss    1.237816
+dtype: float64
+epoch 18 loss 1.2378161183574743; validation 18 loss 1.2815316915512085
+current lr is :0.1
+validation element wise loss: loss    1.281611
+dtype: float64
+training element wise loss: loss    1.239806
+dtype: float64
+epoch 19 loss 1.239806450249856; validation 19 loss 1.2816108465194702
+current lr is :0.1
+validation element wise loss: loss    1.286906
+dtype: float64
+training element wise loss: loss    1.23997
+dtype: float64
+epoch 20 loss 1.239970278321651; validation 20 loss 1.2869055271148682
+current lr is :0.1
+validation element wise loss: loss    1.279585
+dtype: float64
+training element wise loss: loss    1.240713
+dtype: float64
+epoch 21 loss 1.2407132099594986; validation 21 loss 1.2795850038528442
+current lr is :0.1
+validation element wise loss: loss    1.278134
+dtype: float64
+training element wise loss: loss    1.239694
+dtype: float64
+epoch 22 loss 1.2396944416196722; validation 22 loss 1.278133511543274
+current lr is :0.1
+validation element wise loss: loss    1.2818
+dtype: float64
+training element wise loss: loss    1.237083
+dtype: float64
+epoch 23 loss 1.2370826100048267; validation 23 loss 1.2817996740341187
+current lr is :0.1
+validation element wise loss: loss    1.282415
+dtype: float64
+training element wise loss: loss    1.239705
+dtype: float64
+epoch 24 loss 1.239705463250478; validation 24 loss 1.2824151515960693
+current lr is :0.1
+validation element wise loss: loss    1.284193
+dtype: float64
+training element wise loss: loss    1.237634
+dtype: float64
+epoch 25 loss 1.2376342086415542; validation 25 loss 1.2841928005218506
+current lr is :0.1
+validation element wise loss: loss    1.279817
+dtype: float64
+training element wise loss: loss    1.242121
+dtype: float64
+epoch 26 loss 1.2421210214757084; validation 26 loss 1.2798172235488892
+current lr is :0.1
+validation element wise loss: loss    1.276643
+dtype: float64
+training element wise loss: loss    1.238171
+dtype: float64
+epoch 27 loss 1.238170928076694; validation 27 loss 1.2766433954238892
+current lr is :0.1
+validation element wise loss: loss    1.280746
+dtype: float64
+training element wise loss: loss    1.239205
+dtype: float64
+epoch 28 loss 1.239204842793314; validation 28 loss 1.2807457447052002
+current lr is :0.1
+validation element wise loss: loss    1.277634
+dtype: float64
+training element wise loss: loss    1.238532
+dtype: float64
+epoch 29 loss 1.2385316459756148; validation 29 loss 1.2776342630386353
+current lr is :0.1
+validation element wise loss: loss    1.280183
+dtype: float64
+training element wise loss: loss    1.236218
+dtype: float64
+epoch 30 loss 1.2362182820052432; validation 30 loss 1.2801834344863892
+current lr is :0.1
+validation element wise loss: loss    1.286708
+dtype: float64
+training element wise loss: loss    1.240181
+dtype: float64
+epoch 31 loss 1.2401811898800366; validation 31 loss 1.2867074012756348
+current lr is :0.1
+validation element wise loss: loss    1.278116
+dtype: float64
+training element wise loss: loss    1.241974
+dtype: float64
+epoch 32 loss 1.2419736751338892; validation 32 loss 1.2781157493591309
+current lr is :0.1
+validation element wise loss: loss    1.28899
+dtype: float64
+training element wise loss: loss    1.237664
+dtype: float64
+epoch 33 loss 1.2376641380159479; validation 33 loss 1.2889900207519531
+current lr is :0.1
+validation element wise loss: loss    1.279122
+dtype: float64
+training element wise loss: loss    1.240379
+dtype: float64
+epoch 34 loss 1.2403791222655982; validation 34 loss 1.2791223526000977
+current lr is :0.1
+validation element wise loss: loss    1.287945
+dtype: float64
+training element wise loss: loss    1.243251
+dtype: float64
+epoch 35 loss 1.2432508254260348; validation 35 loss 1.2879449129104614
+current lr is :0.1
+validation element wise loss: loss    1.282993
+dtype: float64
+training element wise loss: loss    1.241627
+dtype: float64
+epoch 36 loss 1.2416271766026814; validation 36 loss 1.2829934358596802
+current lr is :0.1
+validation element wise loss: loss    1.287025
+dtype: float64
+training element wise loss: loss    1.241741
+dtype: float64
+epoch 37 loss 1.2417408003095995; validation 37 loss 1.2870250940322876
+current lr is :0.1
+validation element wise loss: loss    1.284002
+dtype: float64
+training element wise loss: loss    1.241853
+dtype: float64
+epoch 38 loss 1.2418534933475025; validation 38 loss 1.2840019464492798
+current lr is :0.1
+validation element wise loss: loss    1.27821
+dtype: float64
+training element wise loss: loss    1.242957
+dtype: float64
+epoch 39 loss 1.2429573786886114; validation 39 loss 1.2782104015350342
+current lr is :0.1
+validation element wise loss: loss    1.284923
+dtype: float64
+training element wise loss: loss    1.243146
+dtype: float64
+epoch 40 loss 1.243145906088645; validation 40 loss 1.2849230766296387
+current lr is :0.1
+validation element wise loss: loss    1.278718
+dtype: float64
+training element wise loss: loss    1.241414
+dtype: float64
+epoch 41 loss 1.241414353512881; validation 41 loss 1.2787176370620728
+current lr is :0.1
+validation element wise loss: loss    1.281993
+dtype: float64
+training element wise loss: loss    1.241477
+dtype: float64
+epoch 42 loss 1.241477179422713; validation 42 loss 1.2819931507110596
+current lr is :0.1
+validation element wise loss: loss    1.279483
+dtype: float64
+training element wise loss: loss    1.238259
+dtype: float64
+epoch 43 loss 1.2382592302665376; validation 43 loss 1.2794829607009888
+current lr is :0.1
+validation element wise loss: loss    1.28127
+dtype: float64
+training element wise loss: loss    1.241089
+dtype: float64
+epoch 44 loss 1.241088571778515; validation 44 loss 1.2812700271606445
+current lr is :0.1
+validation element wise loss: loss    1.28479
+dtype: float64
+training element wise loss: loss    1.240769
+dtype: float64
+epoch 45 loss 1.2407688477583099; validation 45 loss 1.2847896814346313
+current lr is :0.1
+validation element wise loss: loss    1.275347
+dtype: float64
+training element wise loss: loss    1.241658
+dtype: float64
+epoch 46 loss 1.2416575875198632; validation 46 loss 1.2753465175628662
+current lr is :0.1
+validation element wise loss: loss    1.287386
+dtype: float64
+training element wise loss: loss    1.240613
+dtype: float64
+epoch 47 loss 1.2406125392830163; validation 47 loss 1.2873857021331787
+current lr is :0.1
+validation element wise loss: loss    1.282491
+dtype: float64
+training element wise loss: loss    1.240854
+dtype: float64
+epoch 48 loss 1.2408536881731267; validation 48 loss 1.2824904918670654
+current lr is :0.1
+validation element wise loss: loss    1.281776
+dtype: float64
+training element wise loss: loss    1.238713
+dtype: float64
+epoch 49 loss 1.2387128498470574; validation 49 loss 1.2817763090133667
+current lr is :0.1
+validation element wise loss: loss    1.289713
+dtype: float64
+training element wise loss: loss    1.242643
+dtype: float64
+epoch 50 loss 1.2426425908741199; validation 50 loss 1.2897130250930786
+current lr is :0.1
+validation element wise loss: loss    1.279835
+dtype: float64
+training element wise loss: loss    1.241351
+dtype: float64
+epoch 51 loss 1.24135146433847; validation 51 loss 1.2798352241516113
+current lr is :0.1
+validation element wise loss: loss    1.281415
+dtype: float64
+training element wise loss: loss    1.240182
+dtype: float64
+epoch 52 loss 1.2401822491696006; validation 52 loss 1.2814146280288696
+current lr is :0.1
+validation element wise loss: loss    1.286312
+dtype: float64
+training element wise loss: loss    1.243506
+dtype: float64
+epoch 53 loss 1.243506371974945; validation 53 loss 1.286312460899353
+current lr is :0.1
+validation element wise loss: loss    1.27584
+dtype: float64
+training element wise loss: loss    1.240325
+dtype: float64
+epoch 54 loss 1.240325113137563; validation 54 loss 1.2758398056030273
+current lr is :0.1
+validation element wise loss: loss    1.278991
+dtype: float64
+training element wise loss: loss    1.242081
+dtype: float64
+epoch 55 loss 1.2420808024573744; validation 55 loss 1.278990626335144
+current lr is :0.1
+validation element wise loss: loss    1.286969
+dtype: float64
+training element wise loss: loss    1.24309
+dtype: float64
+epoch 56 loss 1.243089622050001; validation 56 loss 1.2869691848754883
+current lr is :0.1
+validation element wise loss: loss    1.283169
+dtype: float64
+training element wise loss: loss    1.240749
+dtype: float64
+epoch 57 loss 1.2407490516963757; validation 57 loss 1.2831692695617676
+current lr is :0.1
+validation element wise loss: loss    1.276556
+dtype: float64
+training element wise loss: loss    1.238158
+dtype: float64
+epoch 58 loss 1.238158496848324; validation 58 loss 1.2765560150146484
+current lr is :0.1
+validation element wise loss: loss    1.286149
+dtype: float64
+training element wise loss: loss    1.241167
+dtype: float64
+epoch 59 loss 1.2411673989212304; validation 59 loss 1.2861487865447998
+current lr is :0.1
+validation element wise loss: loss    1.276701
+dtype: float64
+training element wise loss: loss    1.239403
+dtype: float64
+epoch 60 loss 1.2394028306007385; validation 60 loss 1.2767010927200317
+current lr is :0.1
+validation element wise loss: loss    1.278256
+dtype: float64
+training element wise loss: loss    1.238871
+dtype: float64
+epoch 61 loss 1.238870502563945; validation 61 loss 1.2782557010650635
+current lr is :0.1
+validation element wise loss: loss    1.285757
+dtype: float64
+training element wise loss: loss    1.240268
+dtype: float64
+epoch 62 loss 1.2402682942256593; validation 62 loss 1.2857571840286255
+current lr is :0.1
+validation element wise loss: loss    1.279108
+dtype: float64
+training element wise loss: loss    1.24124
+dtype: float64
+epoch 63 loss 1.2412401155421608; validation 63 loss 1.2791078090667725
+current lr is :0.1
+validation element wise loss: loss    1.290713
+dtype: float64
+training element wise loss: loss    1.239259
+dtype: float64
+epoch 64 loss 1.2392589345312954; validation 64 loss 1.2907133102416992
+current lr is :0.1
+validation element wise loss: loss    1.28314
+dtype: float64
+training element wise loss: loss    1.241528
+dtype: float64
+epoch 65 loss 1.2415276802422708; validation 65 loss 1.2831405401229858
+current lr is :0.1
+validation element wise loss: loss    1.276556
+dtype: float64
+training element wise loss: loss    1.239697
+dtype: float64
+epoch 66 loss 1.2396968885471946; validation 66 loss 1.276556134223938
+current lr is :0.1
+validation element wise loss: loss    1.288483
+dtype: float64
+training element wise loss: loss    1.238567
+dtype: float64
+epoch 67 loss 1.2385671274703847; validation 67 loss 1.2884831428527832
+current lr is :0.1
+validation element wise loss: loss    1.284075
+dtype: float64
+training element wise loss: loss    1.240704
+dtype: float64
+epoch 68 loss 1.240704477879039; validation 68 loss 1.284075140953064
+current lr is :0.1
+validation element wise loss: loss    1.279312
+dtype: float64
+training element wise loss: loss    1.242169
+dtype: float64
+epoch 69 loss 1.24216873290246; validation 69 loss 1.279312014579773
+current lr is :0.1
+validation element wise loss: loss    1.284166
+dtype: float64
+training element wise loss: loss    1.23914
+dtype: float64
+epoch 70 loss 1.2391403892584014; validation 70 loss 1.2841660976409912
+current lr is :0.1
+validation element wise loss: loss    1.282884
+dtype: float64
+training element wise loss: loss    1.237118
+dtype: float64
+epoch 71 loss 1.2371182185516023; validation 71 loss 1.282883882522583
+current lr is :0.1
+validation element wise loss: loss    1.280304
+dtype: float64
+training element wise loss: loss    1.239769
+dtype: float64
+epoch 72 loss 1.2397690702948654; validation 72 loss 1.2803040742874146
+current lr is :0.1
+validation element wise loss: loss    1.280181
+dtype: float64
+training element wise loss: loss    1.2415
+dtype: float64
+epoch 73 loss 1.2414997345522831; validation 73 loss 1.2801804542541504
+current lr is :0.1
+validation element wise loss: loss    1.28798
+dtype: float64
+training element wise loss: loss    1.238992
+dtype: float64
+epoch 74 loss 1.2389916924008153; validation 74 loss 1.287980079650879
+current lr is :0.1
+validation element wise loss: loss    1.285462
+dtype: float64
+training element wise loss: loss    1.242558
+dtype: float64
+epoch 75 loss 1.2425577467993687; validation 75 loss 1.2854623794555664
+current lr is :0.1
+validation element wise loss: loss    1.281224
+dtype: float64
+training element wise loss: loss    1.241129
+dtype: float64
+epoch 76 loss 1.241128569109398; validation 76 loss 1.2812243700027466
+current lr is :0.1
+validation element wise loss: loss    1.287196
+dtype: float64
+training element wise loss: loss    1.238252
+dtype: float64
+epoch 77 loss 1.2382516860961914; validation 77 loss 1.287196159362793
+current lr is :0.1
+validation loss is not improving, stop
+load model with best validation score
+validation element wise loss: loss    1.387266
+dtype: float64
+training element wise loss: loss    1.488869
+dtype: float64
+epoch 0 loss 1.4888686663226078; validation 0 loss 1.3872663974761963
+current lr is :0.1
+validation element wise loss: loss    1.391712
+dtype: float64
+training element wise loss: loss    1.488624
+dtype: float64
+epoch 1 loss 1.4886237790710048; validation 1 loss 1.3917123079299927
+current lr is :0.1
+validation element wise loss: loss    1.38586
+dtype: float64
+training element wise loss: loss    1.488949
+dtype: float64
+epoch 2 loss 1.488949125273186; validation 2 loss 1.3858600854873657
+current lr is :0.1
+validation element wise loss: loss    1.390197
+dtype: float64
+training element wise loss: loss    1.487564
+dtype: float64
+epoch 3 loss 1.4875638307186596; validation 3 loss 1.390196681022644
+current lr is :0.1
+validation element wise loss: loss    1.392565
+dtype: float64
+training element wise loss: loss    1.487445
+dtype: float64
+epoch 4 loss 1.4874445984238072; validation 4 loss 1.3925646543502808
+current lr is :0.1
+validation element wise loss: loss    1.390769
+dtype: float64
+training element wise loss: loss    1.485493
+dtype: float64
+epoch 5 loss 1.4854928317822909; validation 5 loss 1.3907692432403564
+current lr is :0.1
+validation element wise loss: loss    1.945358
+dtype: float64
+training element wise loss: loss    2.106499
+dtype: float64
+epoch 0 loss 2.1064991187631037; validation 0 loss 1.9453575611114502
+current lr is :0.1
+validation element wise loss: loss    1.928762
+dtype: float64
+training element wise loss: loss    2.102296
+dtype: float64
+epoch 1 loss 2.1022960920082894; validation 1 loss 1.9287619590759277
+current lr is :0.1
+validation element wise loss: loss    1.940554
+dtype: float64
+training element wise loss: loss    2.10525
+dtype: float64
+epoch 2 loss 2.1052503209365043; validation 2 loss 1.9405543804168701
+current lr is :0.1
+validation element wise loss: loss    1.928655
+dtype: float64
+training element wise loss: loss    2.104624
+dtype: float64
+epoch 3 loss 2.104624340408727; validation 3 loss 1.9286551475524902
+current lr is :0.1
+validation element wise loss: loss    1.945908
+dtype: float64
+training element wise loss: loss    2.104216
+dtype: float64
+epoch 4 loss 2.10421568782706; validation 4 loss 1.9459081888198853
+current lr is :0.1
+validation element wise loss: loss    1878.362302
+dtype: float64
+training element wise loss: loss    424.443931
+dtype: float64
+epoch 0 loss 424.44393064264665; validation 0 loss 1878.3623046875
+current lr is :0.1
+validation element wise loss: loss    1882.336371
+dtype: float64
+training element wise loss: loss    424.420252
+dtype: float64
+epoch 1 loss 424.42025203035587; validation 1 loss 1882.33642578125
+current lr is :0.1
+validation element wise loss: loss    1878.163213
+dtype: float64
+training element wise loss: loss    424.404131
+dtype: float64
+epoch 2 loss 424.40413113644246; validation 2 loss 1878.163330078125
+current lr is :0.1
+validation element wise loss: loss    1883.298279
+dtype: float64
+training element wise loss: loss    424.389295
+dtype: float64
+epoch 3 loss 424.389294674522; validation 3 loss 1883.29833984375
+current lr is :0.1
+validation element wise loss: loss    1878.302402
+dtype: float64
+training element wise loss: loss    424.350058
+dtype: float64
+epoch 4 loss 424.35005776924; validation 4 loss 1878.3023681640625
+current lr is :0.1
+validation element wise loss: loss    1897.029297
+dtype: float64
+training element wise loss: loss    424.391643
+dtype: float64
+epoch 5 loss 424.3916427880003; validation 5 loss 1897.0291748046875
+current lr is :0.1
+validation element wise loss: loss    1932.749127
+dtype: float64
+training element wise loss: loss    424.404148
+dtype: float64
+epoch 6 loss 424.40414833604245; validation 6 loss 1932.7490234375
+current lr is :0.1
+validation element wise loss: loss    1884.319397
+dtype: float64
+training element wise loss: loss    424.408331
+dtype: float64
+epoch 7 loss 424.4083306998537; validation 7 loss 1884.319580078125
+current lr is :0.1
+validation element wise loss: loss    1360.67173
+dtype: float64
+training element wise loss: loss    1081.786941
+dtype: float64
+epoch 0 loss 1081.7869412606224; validation 0 loss 1360.6717529296875
+current lr is :0.1
+validation element wise loss: loss    1362.183766
+dtype: float64
+training element wise loss: loss    1081.807639
+dtype: float64
+epoch 1 loss 1081.8076386033442; validation 1 loss 1362.1839599609375
+current lr is :0.1
+validation element wise loss: loss    1355.242734
+dtype: float64
+training element wise loss: loss    1081.693688
+dtype: float64
+epoch 2 loss 1081.6936875728138; validation 2 loss 1355.24267578125
+current lr is :0.1
+validation element wise loss: loss    1366.131616
+dtype: float64
+training element wise loss: loss    1081.855022
+dtype: float64
+epoch 3 loss 1081.8550216942504; validation 3 loss 1366.131591796875
+current lr is :0.1
+validation element wise loss: loss    1375.483076
+dtype: float64
+training element wise loss: loss    1077.55248
+dtype: float64
+epoch 0 loss 1077.5524800618489; validation 0 loss 1375.483154296875
+current lr is :0.01
+validation element wise loss: loss    1376.992737
+dtype: float64
+training element wise loss: loss    1077.551815
+dtype: float64
+epoch 1 loss 1077.5518150998835; validation 1 loss 1376.9927978515625
+current lr is :0.01
+validation element wise loss: loss    1367.357133
+dtype: float64
+training element wise loss: loss    1077.671669
+dtype: float64
+epoch 2 loss 1077.6716694078948; validation 2 loss 1367.357177734375
+current lr is :0.01
+validation element wise loss: loss    1367.695725
+dtype: float64
+training element wise loss: loss    1077.605492
+dtype: float64
+epoch 3 loss 1077.6054917720326; validation 3 loss 1367.6956787109375
+current lr is :0.01
+validation element wise loss: loss    1379.331063
+dtype: float64
+training element wise loss: loss    1077.603849
+dtype: float64
+epoch 4 loss 1077.6038486413788; validation 4 loss 1379.3310546875
+current lr is :0.01
+validation element wise loss: loss    1388.060079
+dtype: float64
+training element wise loss: loss    1077.582217
+dtype: float64
+epoch 5 loss 1077.5822170324493; validation 5 loss 1388.06005859375
+current lr is :0.01
+validation element wise loss: loss    1377.438585
+dtype: float64
+training element wise loss: loss    1077.546969
+dtype: float64
+epoch 6 loss 1077.5469686943188; validation 6 loss 1377.4385986328125
+current lr is :0.01
+validation element wise loss: loss    1370.84156
+dtype: float64
+training element wise loss: loss    1077.528644
+dtype: float64
+epoch 7 loss 1077.528644227145; validation 7 loss 1370.841552734375
+current lr is :0.01
+validation element wise loss: loss    1371.859755
+dtype: float64
+training element wise loss: loss    1077.582606
+dtype: float64
+epoch 8 loss 1077.5826059977214; validation 8 loss 1371.85986328125
+current lr is :0.01
+validation element wise loss: loss    1373.389125
+dtype: float64
+training element wise loss: loss    1077.533313
+dtype: float64
+epoch 9 loss 1077.533313416598; validation 9 loss 1373.3890380859375
+current lr is :0.01
+validation element wise loss: loss    1377.709484
+dtype: float64
+training element wise loss: loss    1077.543297
+dtype: float64
+epoch 10 loss 1077.543297215512; validation 10 loss 1377.70947265625
+current lr is :0.01
+validation element wise loss: loss    1367.689304
+dtype: float64
+training element wise loss: loss    1077.582124
+dtype: float64
+epoch 11 loss 1077.5821244089227; validation 11 loss 1367.6893310546875
+current lr is :0.01
+validation element wise loss: loss    1370.894684
+dtype: float64
+training element wise loss: loss    1077.614841
+dtype: float64
+epoch 12 loss 1077.614840858861; validation 12 loss 1370.8946533203125
+current lr is :0.01
+validation element wise loss: loss    1373.223162
+dtype: float64
+training element wise loss: loss    1077.544339
+dtype: float64
+epoch 13 loss 1077.544339364035; validation 13 loss 1373.22314453125
+current lr is :0.01
+validation element wise loss: loss    1369.593411
+dtype: float64
+training element wise loss: loss    1077.56555
+dtype: float64
+epoch 14 loss 1077.565549616228; validation 14 loss 1369.5933837890625
+current lr is :0.01
+validation element wise loss: loss    1369.161163
+dtype: float64
+training element wise loss: loss    1077.591698
+dtype: float64
+epoch 15 loss 1077.5916983621162; validation 15 loss 1369.1612548828125
+current lr is :0.01
+validation element wise loss: loss    1374.83897
+dtype: float64
+training element wise loss: loss    1077.545247
+dtype: float64
+epoch 16 loss 1077.5452473958333; validation 16 loss 1374.8388671875
+current lr is :0.01
+validation element wise loss: loss    1371.935822
+dtype: float64
+training element wise loss: loss    1077.572099
+dtype: float64
+epoch 17 loss 1077.5720985814144; validation 17 loss 1371.935791015625
+current lr is :0.01
+validation element wise loss: loss    1381.338276
+dtype: float64
+training element wise loss: loss    1077.576201
+dtype: float64
+epoch 18 loss 1077.576201321786; validation 18 loss 1381.3382568359375
+current lr is :0.01
+validation element wise loss: loss    1378.093973
+dtype: float64
+training element wise loss: loss    1077.607572
+dtype: float64
+epoch 19 loss 1077.6075720536082; validation 19 loss 1378.0941162109375
+current lr is :0.01
+validation element wise loss: loss    1381.366122
+dtype: float64
+training element wise loss: loss    1077.54275
+dtype: float64
+epoch 20 loss 1077.5427503083881; validation 20 loss 1381.3660888671875
+current lr is :0.01
+validation element wise loss: loss    1368.864148
+dtype: float64
+training element wise loss: loss    1077.618845
+dtype: float64
+epoch 21 loss 1077.6188453540467; validation 21 loss 1368.864013671875
+current lr is :0.01
+validation element wise loss: loss    1.222513
+dtype: float64
+training element wise loss: loss    1.620562
+dtype: float64
+epoch 0 loss 1.6205616101884006; validation 0 loss 1.22251296043396
+current lr is :0.01
+validation element wise loss: loss    1.230704
+dtype: float64
+training element wise loss: loss    1.62178
+dtype: float64
+epoch 1 loss 1.6217804279243737; validation 1 loss 1.230704426765442
+current lr is :0.01
+validation element wise loss: loss    1.220711
+dtype: float64
+training element wise loss: loss    1.621933
+dtype: float64
+epoch 2 loss 1.6219328913772315; validation 2 loss 1.2207111120224
+current lr is :0.01
+validation element wise loss: loss    1.236448
+dtype: float64
+training element wise loss: loss    1.622409
+dtype: float64
+epoch 3 loss 1.6224088072776794; validation 3 loss 1.2364479303359985
+current lr is :0.01
+validation element wise loss: loss    1.228429
+dtype: float64
+training element wise loss: loss    1.621944
+dtype: float64
+epoch 4 loss 1.621943870134521; validation 4 loss 1.2284284830093384
+current lr is :0.01
+validation element wise loss: loss    1.228157
+dtype: float64
+training element wise loss: loss    1.621406
+dtype: float64
+epoch 5 loss 1.6214058556054767; validation 5 loss 1.2281572818756104
+current lr is :0.01
+validation element wise loss: loss    1.232698
+dtype: float64
+training element wise loss: loss    1.621738
+dtype: float64
+epoch 6 loss 1.6217376244695563; validation 6 loss 1.232697606086731
+current lr is :0.01
+validation element wise loss: loss    1.229154
+dtype: float64
+training element wise loss: loss    1.620992
+dtype: float64
+epoch 7 loss 1.6209917591329206; validation 7 loss 1.229154109954834
+current lr is :0.01
+validation element wise loss: loss    1.229561
+dtype: float64
+training element wise loss: loss    1.620555
+dtype: float64
+epoch 8 loss 1.620555391437129; validation 8 loss 1.22956120967865
+current lr is :0.01
+validation element wise loss: loss    1.223522
+dtype: float64
+training element wise loss: loss    1.620492
+dtype: float64
+epoch 9 loss 1.6204917075341208; validation 9 loss 1.2235223054885864
+current lr is :0.01
+validation element wise loss: loss    1.233216
+dtype: float64
+training element wise loss: loss    1.619253
+dtype: float64
+epoch 10 loss 1.6192530498170017; validation 10 loss 1.2332161664962769
+current lr is :0.01
+validation element wise loss: loss    1.22254
+dtype: float64
+training element wise loss: loss    1.621815
+dtype: float64
+epoch 11 loss 1.6218145939341762; validation 11 loss 1.2225397825241089
+current lr is :0.01
+validation element wise loss: loss    1.235967
+dtype: float64
+training element wise loss: loss    1.622573
+dtype: float64
+epoch 12 loss 1.6225734321694625; validation 12 loss 1.2359668016433716
+current lr is :0.01
+validation element wise loss: loss    1.219832
+dtype: float64
+training element wise loss: loss    1.623049
+dtype: float64
+epoch 13 loss 1.623049419177206; validation 13 loss 1.2198315858840942
+current lr is :0.01
+validation element wise loss: loss    1.231349
+dtype: float64
+training element wise loss: loss    1.623416
+dtype: float64
+epoch 14 loss 1.6234159380720372; validation 14 loss 1.2313488721847534
+current lr is :0.01
+validation element wise loss: loss    1.226645
+dtype: float64
+training element wise loss: loss    1.621942
+dtype: float64
+epoch 15 loss 1.6219420537613987; validation 15 loss 1.2266453504562378
+current lr is :0.01
+validation element wise loss: loss    1.222723
+dtype: float64
+training element wise loss: loss    1.621873
+dtype: float64
+epoch 16 loss 1.6218727764330412; validation 16 loss 1.2227232456207275
+current lr is :0.01
+validation element wise loss: loss    1.218246
+dtype: float64
+training element wise loss: loss    1.622364
+dtype: float64
+epoch 17 loss 1.6223635286615605; validation 17 loss 1.2182457447052002
+current lr is :0.01
+validation element wise loss: loss    1.223079
+dtype: float64
+training element wise loss: loss    1.623785
+dtype: float64
+epoch 18 loss 1.623785306487167; validation 18 loss 1.2230784893035889
+current lr is :0.01
+validation element wise loss: loss    1.217514
+dtype: float64
+training element wise loss: loss    1.620736
+dtype: float64
+epoch 19 loss 1.6207357080359208; validation 19 loss 1.2175135612487793
+current lr is :0.01
+validation element wise loss: loss    1.219862
+dtype: float64
+training element wise loss: loss    1.622482
+dtype: float64
+epoch 20 loss 1.6224819369483412; validation 20 loss 1.219862461090088
+current lr is :0.01
+validation element wise loss: loss    1.230673
+dtype: float64
+training element wise loss: loss    1.62142
+dtype: float64
+epoch 21 loss 1.621419866879781; validation 21 loss 1.2306729555130005
+current lr is :0.01
+validation element wise loss: loss    1.221242
+dtype: float64
+training element wise loss: loss    1.623264
+dtype: float64
+epoch 22 loss 1.623263768982469; validation 22 loss 1.2212417125701904
+current lr is :0.01
+validation element wise loss: loss    1.220423
+dtype: float64
+training element wise loss: loss    1.622041
+dtype: float64
+epoch 23 loss 1.6220406231127287; validation 23 loss 1.2204225063323975
+current lr is :0.01
+validation element wise loss: loss    1.220993
+dtype: float64
+training element wise loss: loss    1.621623
+dtype: float64
+epoch 24 loss 1.6216230580681248; validation 24 loss 1.220992922782898
+current lr is :0.01
+validation element wise loss: loss    1.22635
+dtype: float64
+training element wise loss: loss    1.62257
+dtype: float64
+epoch 25 loss 1.622569928043767; validation 25 loss 1.2263500690460205
+current lr is :0.01
+validation element wise loss: loss    1.228015
+dtype: float64
+training element wise loss: loss    1.62211
+dtype: float64
+epoch 26 loss 1.622109596143689; validation 26 loss 1.2280151844024658
+current lr is :0.01
+validation element wise loss: loss    1.220934
+dtype: float64
+training element wise loss: loss    1.622138
+dtype: float64
+epoch 27 loss 1.6221377316274141; validation 27 loss 1.2209336757659912
+current lr is :0.01
+validation element wise loss: loss    1.225618
+dtype: float64
+training element wise loss: loss    1.622249
+dtype: float64
+epoch 28 loss 1.6222490945406127; validation 28 loss 1.2256182432174683
+current lr is :0.01
+validation element wise loss: loss    1.226431
+dtype: float64
+training element wise loss: loss    1.618951
+dtype: float64
+epoch 29 loss 1.6189512202614231; validation 29 loss 1.2264313697814941
+current lr is :0.01
+validation element wise loss: loss    1.223219
+dtype: float64
+training element wise loss: loss    1.621356
+dtype: float64
+epoch 30 loss 1.621355812800558; validation 30 loss 1.2232187986373901
+current lr is :0.01
+validation element wise loss: loss    1.229342
+dtype: float64
+training element wise loss: loss    1.621701
+dtype: float64
+epoch 31 loss 1.6217008055302136; validation 31 loss 1.2293416261672974
+current lr is :0.01
+validation element wise loss: loss    1.223622
+dtype: float64
+training element wise loss: loss    1.622683
+dtype: float64
+epoch 32 loss 1.6226825233091389; validation 32 loss 1.2236217260360718
+current lr is :0.01
+validation element wise loss: loss    1.228964
+dtype: float64
+training element wise loss: loss    1.623422
+dtype: float64
+epoch 33 loss 1.6234218593229328; validation 33 loss 1.228963851928711
+current lr is :0.01
+validation element wise loss: loss    1.221143
+dtype: float64
+training element wise loss: loss    1.621716
+dtype: float64
+epoch 34 loss 1.621715808123873; validation 34 loss 1.2211427688598633
+current lr is :0.01
+validation element wise loss: loss    1.225824
+dtype: float64
+training element wise loss: loss    1.620358
+dtype: float64
+epoch 35 loss 1.6203579421628986; validation 35 loss 1.225823998451233
+current lr is :0.01
+validation element wise loss: loss    1.224081
+dtype: float64
+training element wise loss: loss    1.621702
+dtype: float64
+epoch 36 loss 1.6217022768238134; validation 36 loss 1.2240811586380005
+current lr is :0.01
+validation element wise loss: loss    1.224401
+dtype: float64
+training element wise loss: loss    1.620725
+dtype: float64
+epoch 37 loss 1.6207245237994612; validation 37 loss 1.2244008779525757
+current lr is :0.01
+validation element wise loss: loss    1.225859
+dtype: float64
+training element wise loss: loss    1.622839
+dtype: float64
+epoch 38 loss 1.6228387857738293; validation 38 loss 1.2258586883544922
+current lr is :0.01
+validation element wise loss: loss    1.224275
+dtype: float64
+training element wise loss: loss    1.62226
+dtype: float64
+epoch 39 loss 1.6222599106922484; validation 39 loss 1.2242746353149414
+current lr is :0.01
+validation element wise loss: loss    1.226466
+dtype: float64
+training element wise loss: loss    1.621341
+dtype: float64
+epoch 40 loss 1.6213409283704925; validation 40 loss 1.2264655828475952
+current lr is :0.01
+validation element wise loss: loss    1.224727
+dtype: float64
+training element wise loss: loss    1.624842
+dtype: float64
+epoch 41 loss 1.6248416200018765; validation 41 loss 1.2247271537780762
+current lr is :0.01
+validation element wise loss: loss    1.222853
+dtype: float64
+training element wise loss: loss    1.621345
+dtype: float64
+epoch 42 loss 1.621345463551973; validation 42 loss 1.222853183746338
+current lr is :0.01
+validation element wise loss: loss    1.224778
+dtype: float64
+training element wise loss: loss    1.622291
+dtype: float64
+epoch 43 loss 1.6222905527081406; validation 43 loss 1.2247774600982666
+current lr is :0.01
+validation element wise loss: loss    1.22131
+dtype: float64
+training element wise loss: loss    1.621009
+dtype: float64
+epoch 44 loss 1.6210089650070458; validation 44 loss 1.2213095426559448
+current lr is :0.01
+validation element wise loss: loss    1.229374
+dtype: float64
+training element wise loss: loss    1.623773
+dtype: float64
+epoch 45 loss 1.6237725155395375; validation 45 loss 1.229373574256897
+current lr is :0.01
+validation element wise loss: loss    1.230023
+dtype: float64
+training element wise loss: loss    1.622944
+dtype: float64
+epoch 46 loss 1.6229435247287416; validation 46 loss 1.23002290725708
+current lr is :0.01
+validation element wise loss: loss    1.228383
+dtype: float64
+training element wise loss: loss    1.620499
+dtype: float64
+epoch 47 loss 1.620498914467661; validation 47 loss 1.2283830642700195
+current lr is :0.01
+validation element wise loss: loss    1.219405
+dtype: float64
+training element wise loss: loss    1.62233
+dtype: float64
+epoch 48 loss 1.6223295989789461; validation 48 loss 1.219404935836792
+current lr is :0.01
+validation element wise loss: loss    1.225854
+dtype: float64
+training element wise loss: loss    1.622001
+dtype: float64
+epoch 49 loss 1.6220012129398815; validation 49 loss 1.2258541584014893
+current lr is :0.01
+validation element wise loss: loss    1.219007
+dtype: float64
+training element wise loss: loss    1.621774
+dtype: float64
+epoch 50 loss 1.6217744141294246; validation 50 loss 1.2190070152282715
+current lr is :0.01
+validation element wise loss: loss    1.221697
+dtype: float64
+training element wise loss: loss    1.620597
+dtype: float64
+epoch 51 loss 1.6205971366480778; validation 51 loss 1.221697211265564
+current lr is :0.01
+validation element wise loss: loss    1.219899
+dtype: float64
+training element wise loss: loss    1.622272
+dtype: float64
+epoch 52 loss 1.6222719759271855; validation 52 loss 1.2198987007141113
+current lr is :0.01
+validation element wise loss: loss    1.223596
+dtype: float64
+training element wise loss: loss    1.623622
+dtype: float64
+epoch 53 loss 1.6236218287233721; validation 53 loss 1.223596215248108
+current lr is :0.01
+validation element wise loss: loss    1.222946
+dtype: float64
+training element wise loss: loss    1.620757
+dtype: float64
+epoch 54 loss 1.6207567641609593; validation 54 loss 1.2229458093643188
+current lr is :0.01
+validation element wise loss: loss    1.227397
+dtype: float64
+training element wise loss: loss    1.62301
+dtype: float64
+epoch 55 loss 1.6230101773613377; validation 55 loss 1.2273974418640137
+current lr is :0.01
+validation element wise loss: loss    1.229965
+dtype: float64
+training element wise loss: loss    1.619296
+dtype: float64
+epoch 56 loss 1.6192960111718429; validation 56 loss 1.2299648523330688
+current lr is :0.01
+validation element wise loss: loss    1.226292
+dtype: float64
+training element wise loss: loss    1.622041
+dtype: float64
+epoch 57 loss 1.6220412369360004; validation 57 loss 1.2262917757034302
+current lr is :0.01
+validation element wise loss: loss    1.225612
+dtype: float64
+training element wise loss: loss    1.622146
+dtype: float64
+epoch 58 loss 1.6221464579565483; validation 58 loss 1.225611686706543
+current lr is :0.01
+validation element wise loss: loss    1.219965
+dtype: float64
+training element wise loss: loss    1.623695
+dtype: float64
+epoch 59 loss 1.6236945056078727; validation 59 loss 1.2199651002883911
+current lr is :0.01
+validation element wise loss: loss    1.219943
+dtype: float64
+training element wise loss: loss    1.624468
+dtype: float64
+epoch 60 loss 1.624468161348711; validation 60 loss 1.2199432849884033
+current lr is :0.01
+validation element wise loss: loss    1.226802
+dtype: float64
+training element wise loss: loss    1.623494
+dtype: float64
+epoch 61 loss 1.62349418903652; validation 61 loss 1.226801872253418
+current lr is :0.01
+validation element wise loss: loss    1.219573
+dtype: float64
+training element wise loss: loss    1.620929
+dtype: float64
+epoch 62 loss 1.6209294890102588; validation 62 loss 1.2195724248886108
+current lr is :0.01
+validation element wise loss: loss    1.221728
+dtype: float64
+training element wise loss: loss    1.62175
+dtype: float64
+epoch 63 loss 1.6217500164843441; validation 63 loss 1.221727967262268
+current lr is :0.01
+validation element wise loss: loss    1.229406
+dtype: float64
+training element wise loss: loss    1.621885
+dtype: float64
+epoch 64 loss 1.6218854983647664; validation 64 loss 1.2294056415557861
+current lr is :0.01
+validation element wise loss: loss    1.223977
+dtype: float64
+training element wise loss: loss    1.621829
+dtype: float64
+epoch 65 loss 1.6218288499012328; validation 65 loss 1.223976492881775
+current lr is :0.01
+validation element wise loss: loss    1.228127
+dtype: float64
+training element wise loss: loss    1.621027
+dtype: float64
+epoch 66 loss 1.6210265400116903; validation 66 loss 1.2281270027160645
+current lr is :0.01
+validation element wise loss: loss    1.234978
+dtype: float64
+training element wise loss: loss    1.621439
+dtype: float64
+epoch 67 loss 1.6214391777389927; validation 67 loss 1.2349776029586792
+current lr is :0.01
+validation element wise loss: loss    1.227876
+dtype: float64
+training element wise loss: loss    1.621875
+dtype: float64
+epoch 68 loss 1.6218749138346888; validation 68 loss 1.2278754711151123
+current lr is :0.01
+validation element wise loss: loss    1.231255
+dtype: float64
+training element wise loss: loss    1.624833
+dtype: float64
+epoch 69 loss 1.6248328100171006; validation 69 loss 1.2312551736831665
+current lr is :0.01
+validation element wise loss: loss    1.225036
+dtype: float64
+training element wise loss: loss    1.623279
+dtype: float64
+epoch 70 loss 1.6232785718482838; validation 70 loss 1.2250361442565918
+current lr is :0.01
+validation loss is not improving, stop
+load model with best validation score
